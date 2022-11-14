@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mithindev" target="blank"><img src="https://img.shields.io/twitter/follow/mithindev?logo=twitter&style=for-the-badge" alt="mithindev" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://mithin-dev.netlify.app/](https://mithin-dev.netlify.app/)
 
