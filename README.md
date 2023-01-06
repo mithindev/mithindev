@@ -1,5 +1,4 @@
-<!-- ## Watch my contributions get eaten by a snake🐍
-![snake gif](https://github.com/mithindev/mithindev/blob/output/github-contribution-grid-snake.svg) -->
+
 
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mithin  Dev</h1>
@@ -88,6 +87,7 @@ Databases:
   <img align="center" src="https://leetcard.jacoblin.cool/mithindev?theme=unicorn"/>
 </p>
 
-
+## Watch my contributions get eaten by a snake🐍
+![snake gif](https://github.com/mithindev/mithindev/blob/output/github-contribution-grid-snake.svg)
 
 
