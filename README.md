@@ -87,7 +87,5 @@ Databases:
   <img align="center" src="https://leetcard.jacoblin.cool/mithindev?theme=unicorn"/>
 </p>
 
-<!-- ## Watch my contributions get eaten by a snake🐍
-![snake gif](https://github.com/mithindev/mithindev/blob/output/github-contribution-grid-snake.svg) -->
 
 
