@@ -9,6 +9,9 @@
 
 <p align="center"> <a href="https://twitter.com/mithindev" target="blank"><img src="https://img.shields.io/twitter/follow/mithindev?logo=twitter&style=for-the-badge" alt="mithindev" /></a> </p>
 
+<!-- ![Metrics](https://metrics.lecoq.io/mithindev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) -->
+
+
 #  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking 🌱 I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, and many more<br> ✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
 
