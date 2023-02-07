@@ -70,7 +70,7 @@ Databases:
 
 </p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithindev&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithindev&theme=tokyonight)](https://git.io/streak-stats)
      
 <p align="left">
 
@@ -84,7 +84,7 @@ Databases:
 
 ### 🎀 Halopin Badges
 [![@mithindev's Holopin board](https://holopin.me/mithindev)](https://holopin.io/@mithindev)
-
+ -->
 ### 🧑‍💻 Leetcode Stats
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/mithindev?theme=unicorn"/>
