@@ -55,36 +55,21 @@ Databases:
 
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithin-dev-a-397983247/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19722963/mithin-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mithindev) 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithindev1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mithin-dev-a-397983247/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MithinDev)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mithindev)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+
 # <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<!-- <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mithindev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-</p> -->
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithindev&theme=tokyonight&hide_border=false"/>
+![stats](https://github-readme-stats.vercel.app/api?username=mithindev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithindev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide=TeX&layout=compact)
 
-</p> -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithindev&theme=tokyonight)](https://git.io/streak-stats)
-     
-<p align="left">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithindev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mithindev"/>
-</p>
-
-### 🎀 Halopin Badges
-[![@mithindev's Holopin board](https://holopin.me/mithindev)](https://holopin.io/@mithindev)
- -->
 ### 🧑‍💻 Leetcode Stats
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/mithindev?theme=unicorn"/>
