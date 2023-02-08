@@ -63,8 +63,18 @@ Databases:
 
 # <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
+<div align="center">
+
 ![stats](https://github-readme-stats.vercel.app/api?username=mithindev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithindev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide=TeX&layout=compact)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithindev&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+    
+</div>
 
 ### 🧑‍💻 Leetcode Stats
 <p align="center">
