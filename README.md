@@ -11,7 +11,7 @@
     <td valign="center">
       <a></a>
       # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:<br>
-🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security,Open Source, and many more<br> ✉️ You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
+🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science,<br> Cyber Security,Open Source, and many more<br> ✉️ You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
 
 📝Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev) 
 
