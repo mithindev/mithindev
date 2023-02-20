@@ -8,12 +8,15 @@
 
 <table>
   <tr>
-    <td valign="center">
-      <a></a>
-      # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:<br>
-🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science,<br> Cyber Security,Open Source, and many more<br> ✉️ You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
+    <td>
+<h3>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science,<br> Cyber Security,Open Source, and many more<br>
 
-📝Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev) 
+✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
+
+📝Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev)
+
+Feel free to reach me, I'm always up for a fun conversation!
 
 <details>
     <summary> 💪 <b> Click here for my skills </b></summary>
@@ -47,7 +50,6 @@ Databases:
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
 </details>
-Feel free to reach me, I'm always up for a fun conversation!
     </td>
     <td>
       <a href="https://app.daily.dev/mithindev"><img src="https://api.daily.dev/devcards/91961cb74dcd470b9b4e94bd643cefa8.png?r=igy" width="400" alt="MITHIN DEV's Dev Card"/></a>
