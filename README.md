@@ -1,22 +1,24 @@
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mithin Dev</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithindev&label=Profile%20views&color=0e75b6&style=flat" alt="mithindev" /> </p>
 
-<p align="center"> <a href="https://twitter.com/mithindev" target="blank"><img src="https://img.shields.io/twitter/follow/mithindev?logo=twitter&style=for-the-badge" alt="mithindev" /></a> </p>
 
+<table>
+  <tr>
+    <td>
+<h3>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science,<br> Cyber Security,Open Source, and many more<br>
 
-#  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking 🌱 I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, and many more<br> ✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
+✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
 
-Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev) 
-<!-- and on quirky topics at my personal blog [here](https://google.com). -->
+📝Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev)
 
 Feel free to reach me, I'm always up for a fun conversation!
 
- <details>
+<details>
     <summary> 💪 <b> Click here for my skills </b></summary>
 
 <br />
@@ -48,7 +50,27 @@ Databases:
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
 </details>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/mithindev"><img src="https://api.daily.dev/devcards/91961cb74dcd470b9b4e94bd643cefa8.png?r=igy" width="400" alt="MITHIN DEV's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mithindev"><img alt="Mithin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mithindev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/mithindev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mithindev&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/mithindev"><img alt="Mithin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithindev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  <tr>
+</table>
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
@@ -61,22 +83,12 @@ Databases:
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=mithindev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithindev&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide=TeX&layout=compact)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithindev&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
-    
-</div>
 
 ## 🧑‍💻 Leetcode Stats
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/mithindev?theme=unicorn"/>
 </p>
+
+
+
+
