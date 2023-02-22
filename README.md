@@ -10,7 +10,7 @@
   <tr>
     <td>
 <h3>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science,<br>Cyber Security,Open Source, and many more<br>
+🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science,Cyber Security,Open Source, and many more<br>
 
 ✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
 
