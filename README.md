@@ -50,6 +50,24 @@ Databases:
     <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><a>
 </p>
 </details>
+  
+  <details>   <summary>  <h4 align="center"> Latest Blogs 📅</h4>
+                                         </summary>
+
+   ## :black_nib: Latest Blog Posts :clipboard:
+   <h4 align="left">
+
+<!-- BLOG-POST-LIST:START -->
+- [From Classroom to Open Source 🌐](https://mithin.hashnode.dev/from-classroom-to-open-source)
+- [🤖ChatGPT v / s 🎭BARD](https://mithin.hashnode.dev/can-you-explain-the-difference-between-chatgpt-and-bard)
+- [5 Master THE FIVE SORTING ALGORITHMS](https://mithin.hashnode.dev/master-the-five-sorting-algorithms-in-5-minutes-a-day)
+- [📝: A Guide for Writing Effective Git Commit Messages](https://mithin.hashnode.dev/a-guide-for-writing-effective-git-commit-messages)
+- [Preparing for AI-era job transformation](https://mithin.hashnode.dev/embracing-the-impact-preparing-for-the-transformation-of-jobs-in-the-ai-era)
+- [Things you need to know about DevOps](https://mithin.hashnode.dev/things-you-need-to-know-about-devops)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts 👆](https://mithin.hashnode.dev/)
+</details>
     </td>
     <td>
       <a href="https://app.daily.dev/mithindev"><img src="https://api.daily.dev/devcards/91961cb74dcd470b9b4e94bd643cefa8.png?r=igy" width="400" alt="MITHIN DEV's Dev Card"/></a>
