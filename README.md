@@ -1,15 +1,38 @@
+<!-- Add a tech stack image -->
+
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+
+<!-- Add a heading for the page with a waving hand emoji -->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mithin Dev</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<!-- Add a page view counter using GitHub profile views badge -->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithindev&label=Profile%20views&color=0e75b6&style=flat" alt="mithindev" /> </p>
 
 
-<table>
-  <tr>
-    <td>
-<h3>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<!-- 👨‍💻 This is a HTML code for a web page with information about the creator.
+
+👍 It starts with an opening <table> tag which defines a table.
+
+👍 Inside the table, there is a row defined by the opening and closing <tr> tags, which contains two columns defined by the opening and closing <td> tags.
+
+👍 In the first column of the row, there is an <h3> tag with the text "Hello!" and an animated image of a waving hand in GIF format. Below this is a list of information about the creator, such as their location, current work, interests, and contact information.
+
+👍 In the second column of the row, there is a link to a dev card for the creator.
+
+👍 The code also includes a collapsible section using the <details> tag, which shows a list of the creator's latest blog posts. -->
+
+<table>       <!--Start of table-->
+  <tr>        <!--Start of table row-->
+    <td>      <!--Start of table cell-->
+      <h3>  
+        Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+      </h3>
+             
+
+  
 🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, <br>Cyber Security,Open Source, and many more<br>
 
 ✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
@@ -18,7 +41,7 @@
 
 Feel free to reach me, I'm always up for a fun conversation!
 
-<details>
+<details>     <!--Start of details element-->
     <summary> 💪 <b> Click here for my skills </b></summary>
 
 <br />
@@ -89,6 +112,9 @@ Databases:
     </td>
   <tr>
 </table>
+  
+  
+  <!-- 🌐 This code displays a section labeled "Let's connect" with badges representing social media and email accounts. The section is accompanied by a gif of a waving hand, which adds a friendly and welcoming tone. The badges use the shields.io service to display logos and colors representing each platform, including Gmail, LinkedIn, Twitter, and Github. The badges are displayed in a for-the-badge style, which provides a consistent visual style across all badges. This code is useful for allowing users to quickly connect with the developer on various platforms, and it can be easily modified to include additional badges for other social media platforms or contact information. -->
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's connect:** ️
@@ -97,11 +123,16 @@ Databases:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MithinDev)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mithindev)
 
+  
+  <!-- 🪨This code displays a section labeled "Tech Stack" with a collection of badges representing various programming languages and technologies. The badges use the shields.io service to display logos and colors representing each technology, including C, CSS3, HTML5, JavaScript, Java, and Netlify. The badges are displayed in a for-the-badge style, which provides a consistent visual style across all badges. This code is useful for quickly and visually conveying a developer's tech stack, and it can be easily modified to include additional badges for other technologies. -->
+
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 
+  <!-- 🪨This code displays a Leetcode stats card for the user "mithindev" (That's me 😊) with a unicorn theme. -->
+  
 ## 🧑‍💻 Leetcode Stats
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/mithindev?theme=unicorn"/>
