@@ -76,19 +76,16 @@ Databases:
 </p>
 </details>
   
-  <details>   <summary>  <h4 align="center"> Latest Blogs 📅</h4>
-                                         </summary>
-
+  <details><summary><h4 align="center"> Latest Blogs 📅</h4></summary>           
    ## :black_nib: Latest Blog Posts :clipboard:
    <h4 align="left">
-
 <!-- BLOG-POST-LIST:START -->
 - [🌐From Classroom to Open Source](https://mithin.hashnode.dev/from-classroom-to-open-source)
 - [🤖ChatGPT v / s 🎭BARD](https://mithin.hashnode.dev/can-you-explain-the-difference-between-chatgpt-and-bard)
 - [🧙‍♂️Master THE FIVE SORTING ALGORITHMS](https://mithin.hashnode.dev/master-the-five-sorting-algorithms-in-5-minutes-a-day)
 - [📝: A Guide for Writing Effective Git Commit Messages](https://mithin.hashnode.dev/a-guide-for-writing-effective-git-commit-messages)
-- [🦾Preparing for AI-era job transformation](https://mithin.hashnode.dev/embracing-the-impact-preparing-for-the-transformation-of-jobs-in-the-ai-era)
-- [👨‍💻Things you need to know about DevOps](https://mithin.hashnode.dev/things-you-need-to-know-about-devops)
+- [🦾Building an Article Relevance Analyzer](https://mithin.hashnode.dev/creating-a-nlp-app)
+- [👨‍💻A Beginners-Friendly Introduction to DevOps🐳](https://mithin.hashnode.dev/a-beginners-friendly-introduction-to-devops)
 - [🍢Series: OOPS in java](https://mithin.hashnode.dev/series/java-oops)
 <!-- BLOG-POST-LIST:END -->
 
