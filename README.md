@@ -24,8 +24,8 @@
              
   
 🌍  I'm based in India <br> 🔭 I’m currently working on web application development<br>👯 I’m looking to collaborate on development related open source projects<br>🌱 I’m currently learning React JS<br>💬Ask me anything about Opensource<br>⚡ Fun fact - I talk to myself 😅 <br>🖥️ See My Portfolio: Cooking <br>🌱 I’m interested in Coding, App Development, Web Development,<br> Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, <br>Cyber Security,Open Source, and many more<br>
-✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) 
-📝Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev)
+✉️  You can contact me at [mithindev1@gmail.com](mailto:mithindev1@gmail.com) <br>
+📝Other than that, I enjoy writing a lot - I write technical content [here](https://mithin.hashnode.dev) <br>
 Feel free to reach me, I'm always up for a fun conversation!
 <details>     <!--Start of details element-->
     <summary> 💪 <b> Click here for my skills </b></summary>
@@ -74,7 +74,8 @@ Databases:
     </td>
   </tr>
 </table>
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
+ ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️
 <table>
   <tr>
     <td>
