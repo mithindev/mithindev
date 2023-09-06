@@ -126,20 +126,20 @@ Databases:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2023 - To: 03 September 2023
+From: 22 March 2023 - To: 04 September 2023
 
-Total Time: 120 hrs 2 mins
+Total Time: 120 hrs 58 mins
 
-Java               37 hrs 59 mins  >>>>>>>>-----------------   31.65 %
-Python             26 hrs 55 mins  >>>>>>-------------------   22.43 %
-HTML               16 hrs 39 mins  >>>----------------------   13.88 %
-JavaScript         14 hrs 12 mins  >>>----------------------   11.84 %
-C                  5 hrs 34 mins   >------------------------   04.64 %
-TSQL               4 hrs 36 mins   >------------------------   03.84 %
-CSS                3 hrs 54 mins   >------------------------   03.26 %
-Other              2 hrs 21 mins   -------------------------   01.96 %
-Assembly           2 hrs 4 mins    -------------------------   01.72 %
-Text               1 hr 7 mins     -------------------------   00.93 %
+Java               38 hrs 5 mins   >>>>>>>>-----------------   31.49 %
+Python             27 hrs 36 mins  >>>>>>-------------------   22.82 %
+HTML               16 hrs 39 mins  >>>----------------------   13.78 %
+JavaScript         14 hrs 12 mins  >>>----------------------   11.75 %
+C                  5 hrs 34 mins   >------------------------   04.60 %
+TSQL               4 hrs 36 mins   >------------------------   03.81 %
+CSS                3 hrs 54 mins   >------------------------   03.23 %
+Other              2 hrs 21 mins   -------------------------   01.94 %
+Assembly           2 hrs 4 mins    -------------------------   01.71 %
+Text               1 hr 9 mins     -------------------------   00.96 %
 ```
 
 <!--END_SECTION:waka-->
