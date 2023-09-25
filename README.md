@@ -8,7 +8,7 @@
 
 <!-- Add a page view counter using GitHub profile views badge -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithindev&label=Profile%20views&color=0e75b6&style=flat" alt="mithindev" /> </p>
-<!-- 👨‍💻 This is a HTML code for a web page with information about the creator.
+<!-- 👨‍💻 This is a HTML code for a web page with information about thcreator.
 👍 It starts with an opening <table> tag which defines a table.
 👍 Inside the table, there is a row defined by the opening and closing <tr> tags, which contains two columns defined by the opening and closing <td> tags.
 👍 In the first column of the row, there is an <h3> tag with the text "Hello!" and an animated image of a waving hand in GIF format. Below this is a list of information about the creator, such as their location, current work, interests, and contact information.
