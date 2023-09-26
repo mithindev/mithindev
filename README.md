@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mithin Dev</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<!-- Add a page view counter using GitHub profile views badge -->
+<!-- Add a page view counter using GitHub profile views ba -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithindev&label=Profile%20views&color=0e75b6&style=flat" alt="mithindev" /> </p>
 <!-- 👨‍💻 This is a HTML code for a web page with information about thcreator.
 👍 It starts with an opening <table> tag which defines a table.
