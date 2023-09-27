@@ -11,7 +11,7 @@
 <!-- 👨‍💻 This is a HTML code for a web page with information about thcreator.
 👍 It starts with an opening <table> tag which defines a table.
 👍 Inside the table, there is a row defined by the opening and closing <tr> tags, which contains two columns defined by the opening and closing <td> tags.
-👍 In the first column of the row, there is an <h3> tag with the text "Hello!" and an animated image of a waving hand in GIF format. Below this is a list of information about the creator, such as their location, current work, interests, and contact information.
+👍 In the first column of the row, there is an <h3> tag with the text "Hello!" and an animated image of a waving hand in GIF format. Below this is a list of information about the creator, such as their locan, current work, interests, and contact information.
 👍 In the second column of the row, there is a link to a dev card for the creator.
 👍 The code also includes a collapsible section using the <details> tag, which shows a list of the creator's latest blog posts. -->
 <table>       <!--Start of table-->
