@@ -125,7 +125,7 @@ Databases:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2023 - To: 03 October 2023
+From: 22 March 2023 - To: 04 October 2023
 
 Total Time: 142 hrs 8 mins
 
