@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td valign="center">
-      <a href="https://dunsin.vercel.app/">
+      <a href="https://mithindev.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
       <p>
         <h3>Hello👋🏾</h3>
@@ -69,7 +69,7 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
     <p>➡️ <a href="https://mithin.hashnode.dev/">More blog posts 👆</a></p>
 </details>
         <h4>Show your Support🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <a href="https://www.buymeacoffee.com/mithindev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
        </p>
     </td>
