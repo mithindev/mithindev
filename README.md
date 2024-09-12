@@ -1,4 +1,5 @@
-
+.
+<!-- 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithindev&label=Profile%20views&color=0e75b6&style=flat" alt="mithindev" /> </p>
 
@@ -109,6 +110,5 @@ I'm always up for a fun conversation, so don't hesitate to reach out! 🚀
 </p>
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20032%26project%3D%26in%3D0)](https://codetime.dev)
-
-
+-->
 
